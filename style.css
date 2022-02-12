@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(175, 175, 48);
+}
+div {
+    color: rgb(197, 42, 42);
+    background-color: black;
+  }
+
+.broad-text {
+    color:aqua;    
+    background-color: blue;
+}
